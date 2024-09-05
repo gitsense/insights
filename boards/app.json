@@ -1,0 +1,13 @@
+{
+    "name": "app",
+    "displayName": "Insights",
+    "blocks": [
+        {
+            "widget": "welcome.html",
+            "cols": 12,
+            "params": {
+                "path": "packages/gitsense-insights/msg.html"
+            }
+        }
+    ] 
+}
